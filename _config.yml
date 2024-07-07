@@ -28,14 +28,14 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
+title : Fundación San Vicente Pallotti
 tagline: A fresh looking and responsive theme for Jekyll
 assets: /assets
 url:
 baseurl:
 
 #### Language
-language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
+language: en    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
