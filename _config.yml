@@ -28,14 +28,14 @@ defaults:
 paginate: 20
 
 #### Site
-title : Doctrina Social de la Iglesia
-tagline: Un tema de estudio 
+title : Catequética 1
+tagline: Escuela de Teologia, Evangelización y Catequesis María, Madre y Maestra 
 assets: /assets
 url:
 baseurl:
 
 #### Language
-language: en    ## blog site languages: en, zh-CN, zh-TW, de
+language: en    ## blog site languages: es, en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
