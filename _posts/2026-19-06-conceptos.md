@@ -1,6 +1,6 @@
 ---
 title: Comenzaremos investigando estos conceptos básicos
-date: 2026-19-06 00:13:44
+date: 2026-06-19 13:27:23
 tags:
 ---
 
