@@ -1,6 +1,8 @@
 ---
 title: Emoji Test
 tags:
+categories: blog
+published: false # <--- Añade esta línea
 ---
 
 This is an emoji test. :smile:
