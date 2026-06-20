@@ -2,6 +2,10 @@
 title: Comenzaremos investigando estos conceptos básicos
 date: 2026-06-19 13:27:23
 tags:
+- Catecúmeno
+- Catequizando
+- Evangelización
+- Catecismo
 ---
 
 # ¡Bienvenidos a esta apasionante aventura en la materia de Catequética I!
