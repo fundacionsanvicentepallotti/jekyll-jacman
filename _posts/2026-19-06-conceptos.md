@@ -67,5 +67,4 @@ Es una realidad rica, compleja y dinámica que expresa la misión esencial de la
 Es el documento que recoge de forma precisa, a modo de síntesis orgánica, los acontecimientos y verdades fundamentales de la fe común del pueblo de Dios. Representa una norma segura para la enseñanza de la fe, facilitando que todos los bautizados tengan acceso a la integridad del mensaje cristiano.
 
 ---
-
-¡Espero que estas definiciones sean de gran utilidad para el desarrollo de sus cuadernos! ¡Seguimos adelante! 📝
+ 📝
