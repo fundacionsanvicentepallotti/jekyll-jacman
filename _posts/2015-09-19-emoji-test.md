@@ -1,6 +1,7 @@
 ---
-title: Emoji Test
-tags:
+title: (Tarea) La Revelación se aborda describiendo su naturaleza, su propósito, sus acciones y sus fuentes
+date: 2026-06-20 13:27:23
+tags: 
 ---
 
 # Guía de Estudio
