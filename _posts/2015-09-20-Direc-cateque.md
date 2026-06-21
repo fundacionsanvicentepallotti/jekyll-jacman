@@ -3,11 +3,8 @@ title: (Tarea) La Revelación se aborda describiendo su naturaleza, su propósit
 date: 2026-06-20 13:27:23
 tags: 
 ---
-<img src="{{ '/assets/img/Nuevo_Horizonte_de_la_Catequesis.png' | relative_url }}" alt="Texto alternativo" style="width: 100%; max-width: 500px; height: auto;">
 
 <img src="{{ '/assets/img/Nuevo_Horizonte_de_la_Catequesis.png' | relative_url }}" alt="Nuevo Horizonte de la Catequesis" style="width: 100%; max-width: 500px; height: auto; display: block; margin: 0 auto;">
-
-<img src="{{ '/assets/img/Nuevo_Horizonte_de_la_Catequesis.png' | relative_url }}" alt="Texto alternativo" width="500">
 
 # Guía de Estudio
 ## Directorio para la Catequesis
