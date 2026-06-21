@@ -101,3 +101,35 @@ La catequesis bebe de diversas fuentes que convergen en la Palabra de Dios:
 * **La Teología:** Ofrece una inteligencia crítica y sistemática de la fe.
 * **La Cultura Cristiana:** El patrimonio histórico, artístico y moral acumulado por siglos.
 * **La Belleza (*via pulchritudinis*):** El camino de la belleza es esencial para llegar al corazón humano y encontrar a Dios.
+
+
+
+<div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+    <div>
+        <div class="uk-card uk-card-default uk-card-body">
+            <h3 class="uk-card-title">Default</h3>
+            <p>Lorem ipsum <a href="#">dolor</a> sit amet, consectetur adipiscing elit.</p>
+        </div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-primary uk-card-body">
+            <h3 class="uk-card-title">Primary</h3>
+            <p>Lorem ipsum <a href="#">dolor</a> sit amet, consectetur adipiscing elit.</p>
+        </div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-secondary uk-card-body">
+            <h3 class="uk-card-title">Secondary</h3>
+            <p>Lorem ipsum <a href="#">dolor</a> sit amet, consectetur adipiscing elit.</p>
+        </div>
+    </div>
+    <div>
+        <div class="uk-inline-clip">
+            <img src="images/photo.jpg" width="1800" height="1200" alt="">
+            <div class="uk-card uk-card-overlay uk-card-body uk-position-cover uk-position-small">
+                <h3 class="uk-card-title">Overlay</h3>
+                <p>Lorem ipsum <a href="#">dolor</a> sit amet, consectetur adipiscing elit.</p>
+            </div>
+        </div>
+    </div>
+</div>
