@@ -1,5 +1,5 @@
 ---
-title: Comenzaremos investigando estos conceptos básicos
+title: Conceptos básicos
 date: 2026-06-19 13:27:23
 tags:
 - Catecúmeno
